@@ -1,5 +1,28 @@
 ![Header](https://raw.githubusercontent.com/Badhon-Roy/Badhon-Roy/main/images/CoverPhoto/github-header-image.png)
 
+## 👋 Hi there, I'm Badhon Roy!
+
+I'm a passionate front-end developer with a keen eye for design and a love for creating engaging user experiences. My journey in the world of web development has led me to specialize in HTML, CSS, and JavaScript, with expertise in popular frameworks like React.
+
+### 💻 What I Do
+
+As a front-end developer, I specialize in building visually appealing and highly interactive web applications. Here are some highlights of what I bring to the table:
+
+- **UI/UX Design:** Creating pixel-perfect and intuitive user interfaces to deliver seamless user experiences.
+- **Responsive Web Development:** Building websites that look great on any device, ensuring a consistent and enjoyable user experience.
+- **React Development:** Leveraging the power of React to develop scalable and efficient single-page applications.
+- **Modern CSS:** Implementing the latest CSS techniques, including frameworks like Tailwind CSS, to bring designs to life.
+- **Firebase Integration:** Utilizing Firebase for backend services, authentication, and real-time data synchronization.
+
+I am always eager to explore new technologies and methodologies to stay at the forefront of front-end development. Let's collaborate and create something amazing!
+
+
+### 🌐 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/badhon-roy-515303297/)
+
+Feel free to explore my repositories and projects. If you have any questions or just want to chat about front-end development, I'm always open to new connections and collaborations!
+
+
 ## 🎯Current Github Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy&theme=radical)](https://git.io/streak-stats)
 ## ✒️ Languages and Tools
