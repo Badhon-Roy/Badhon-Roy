@@ -2,8 +2,8 @@
 
 ## 🎯Current Github Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy)](https://git.io/streak-stats)
-## 🤖 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github)](https://skillicons.dev)
+## ✒️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github,figma)](https://skillicons.dev)
 
 ## 🖥️My project
 ### ✨Inventory Management System
@@ -13,7 +13,7 @@
 - A user can not create a shop double
 - Admin can see all users and all shop which already created
 - Do not see admin and manager dashboard any user
-#### 🤖 Languages and Tools
+#### 🤖 Technology
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,express,vite,firebase,vscode)](https://skillicons.dev)
 
 
@@ -27,7 +27,7 @@
 - There are some private routes that cannot be accessed without logging in. If you want to go to private routes, you must first login and then go to that private route.
 - Log in or register must be done correctly otherwise it will give error.
 - Dark mode and light mode have been added to the website which will increase the beauty of the website.
-#### 🤖 Languages and Tools
+#### 🤖 Technology
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,express,vite,firebase,vscode)](https://skillicons.dev)
 
 
@@ -41,5 +41,5 @@
 - Some of our team workers are pictured
 - A route has been created to contact us
 - We do event management for any type of training program
-#### 🤖 Languages and Tools
+#### 🤖 Technology
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,firebase,vscode)](https://skillicons.dev)
