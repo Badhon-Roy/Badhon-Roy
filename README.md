@@ -5,9 +5,7 @@
 I'm a passionate front-end developer with a keen eye for design and a love for creating engaging user experiences. My journey in the world of web development has led me to specialize in HTML, CSS, and JavaScript, with expertise in popular frameworks like React.
 
 ### 💻 What I Do
-
 As a front-end developer, I specialize in building visually appealing and highly interactive web applications. Here are some highlights of what I bring to the table:
-
 - **UI/UX Design:** Creating pixel-perfect and intuitive user interfaces to deliver seamless user experiences.
 - **Responsive Web Development:** Building websites that look great on any device, ensuring a consistent and enjoyable user experience.
 - **React Development:** Leveraging the power of React to develop scalable and efficient single-page applications.
@@ -21,12 +19,14 @@ I am always eager to explore new technologies and methodologies to stay at the f
 - 💼 [LinkedIn](https://www.linkedin.com/in/badhon-roy-515303297/)
 
 Feel free to explore my repositories and projects. If you have any questions or just want to chat about front-end development, I'm always open to new connections and collaborations!
-
-
-## 🎯Current Github Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy&theme=radical)](https://git.io/streak-stats)
 ## ✒️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github,figma)](https://skillicons.dev)
+
+
+
+## 🎯 Current Github Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy&theme=radical)](https://git.io/streak-stats)
+
 
 
 
