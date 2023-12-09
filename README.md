@@ -23,12 +23,10 @@ Feel free to explore my repositories and projects. If you have any questions or 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github,figma)](https://skillicons.dev)
 
 
-
-## 🎯 Current Github Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy&theme=radical)](https://git.io/streak-stats)
-
-
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Badhon-Roy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Badhon-Roy&theme=radical&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-Roy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🖥️My project
 ### ✨Inventory Management System
