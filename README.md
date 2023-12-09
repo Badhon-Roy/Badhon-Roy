@@ -1,9 +1,11 @@
 ![Header](https://raw.githubusercontent.com/Badhon-Roy/Badhon-Roy/main/images/CoverPhoto/github-header-image.png)
 
 ## 🎯Current Github Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy&theme=radical)](https://git.io/streak-stats)
 ## ✒️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github,figma)](https://skillicons.dev)
+
+
 
 ## 🖥️My project
 ### ✨Inventory Management System
@@ -15,9 +17,6 @@
 - Do not see admin and manager dashboard any user
 #### 🤖 Technology
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,express,vite,firebase,vscode)](https://skillicons.dev)
-
-
-
 ### ✨Automotive
 #### 🔗Live link - [https://automotive-61e53.web.app/](https://automotive-61e53.web.app/)
 ### 👀Features of our website
