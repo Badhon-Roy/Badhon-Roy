@@ -3,9 +3,20 @@
 ## Current Github Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Badhon-Roy)](https://git.io/streak-stats)
 ## 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb,express,vite,firebase,vscode,git,github)](https://skillicons.dev)
 
 ## 🖥️My project
+### Inventory Management System
+#### Live link - [https://inventory-management-sys-8bd31.web.app/](https://inventory-management-sys-8bd31.web.app/)
+### Features of our website
+- When a user create a shop , his role is manager
+- A user can not create a shop double
+- Admin can see all users and all shop which already created
+- Do not see admin and manager dashboard any user
+#### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,express,vite,firebase,vscode)](https://skillicons.dev)
+
+
 
 ### Education and training event
 #### Live link - [@https://educational-and-training-event.web.app/](https://educational-and-training-event.web.app/)
