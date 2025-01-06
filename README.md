@@ -4,6 +4,13 @@
 
 I'm a passionate front-end developer with a keen eye for design and a love for creating engaging user experiences. My journey in the world of web development has led me to specialize in HTML, CSS, and JavaScript, with expertise in popular frameworks like React.
 
+##
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=1000&color=029BC0&center=true&vCenter=true&width=600&lines=🌟+Front-End+Developer;⚛️+React+Developer;🔥+MERN+Stack+Enthusiast;💻+JavaScript+Lover;📦+MongoDB+Specialist;🚀+Express+JS+Expert" alt="Typing Animation" />
+</div> 
+  
+##
+
 ### 💻 What I Do
 As a front-end developer, I specialize in building visually appealing and highly interactive web applications. Here are some highlights of what I bring to the table:
 - **UI/UX Design:** Creating pixel-perfect and intuitive user interfaces to deliver seamless user experiences.
