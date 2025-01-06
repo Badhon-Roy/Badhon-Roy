@@ -37,10 +37,24 @@ Feel free to explore my repositories and projects. If you have any questions or 
 </div>
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Badhon-Roy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Badhon-Roy&theme=radical&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-Roy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📈 GitHub Stats
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=Badhon-Roy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Badhon-Roy&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-Roy&langs_count=10&layout=compact&theme=radical)
+</div>
+
+### 🏆 GitHub Awards
+
+<div align='center'>
+
+![GitHub Awards](https://github-profile-trophy.vercel.app/?username=Badhon-Roy&theme=onestar&row=1&column=3&margin-w=15&margin-h=15)
+
+</div>
 
 ## 🖥️My project
 ### ✨Inventory Management System
@@ -77,3 +91,26 @@ Feel free to explore my repositories and projects. If you have any questions or 
 - We do event management for any type of training program
 #### 🤖 Technology
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,firebase,vscode)](https://skillicons.dev)
+
+---
+
+### 🎯 **Goals for 2025**
+
+- Master **TypeScript** and apply it across all my projects.
+- Get hands-on experience with **Mongoose** for more robust database interactions.
+- Learn and implement **Redux** for state management in React applications.
+- Build and deploy a full-stack **Next.js** application.
+- Contribute more to **open-source** projects.
+- Build and deploy a **Web3 decentralized application**.
+- Start a **developer-focused blog** to share tutorials and insights.
+
+
+### 💬 Let's Build Something Amazing Together!
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. I'm always open to **collaborations** and **new opportunities**.
+
+---
+<div align='center'>
+
+⭐️ **"Coding is not just my profession, it’s my passion."** ⭐️
+</div>
