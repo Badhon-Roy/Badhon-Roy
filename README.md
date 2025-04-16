@@ -66,42 +66,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 ---
 
-## 🖥️My project
-### ✨ SecondHand (Marketplace for Buying & Selling Used Items)
-#### 🔗Live link - [https://secondhand-mart.vercel.app](https://secondhand-mart.vercel.app)
-A secure and user-friendly platform for buying and selling second-hand
-products with advanced search, messaging, and listing management
-features.
-### 👀Features of our website
-- User Authentication: Secure login with JWT authentication and bcrypt password hashing
-- Listing Management: Users can create, update, delete, and mark items as sold.
-- Wishlist & Transactions: Save favorite items, track purchases and sales, and manage orders.
-
-#### 🤖 Technology
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,typescript,nodejs,express,mongodb)](https://skillicons.dev)
-### ✨Stationery Shop
-#### 🔗Live link - [https://stationery-shop-client-sandy.vercel.app/](https://stationery-shop-client-sandy.vercel.app/)
-A responsive and user-friendly eCommerce platform for stationery
-products with secure authentication and smooth product management.
-### 👀Features of our website
-- Role-Based Authentication: Secure user registration, login, and JWTbased authentication.
-- Product Management: Admin can manage products (CRUD), approve orders, and track inventory.
-- Order & Payment System: Users can add products to the cart, place orders, and make secure payments.
-#### 🤖 Technology
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,redux,typescript,nodejs,express,mongodb)](https://skillicons.dev)
-
-### ✨Inventory Management System
-#### 🔗Live link - [https://inventory-management-sys-8bd31.web.app/](https://inventory-management-sys-8bd31.web.app/)
-### 👀Features of our website
-- When a user create a shop , his role is manager
-- A user can not create a shop double
-- Admin can see all users and all shop which already created
-- Do not see admin and manager dashboard any user
-#### 🤖 Technology
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,firebase)](https://skillicons.dev)
-
----
-
 ### 🎯 **Goals for 2025**
 
 - Master **TypeScript** and apply it across all my projects.
