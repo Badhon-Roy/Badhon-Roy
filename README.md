@@ -1,4 +1,5 @@
-![Header](https://i.ibb.co.com/dwbSLkrH/github-header-banner.jpg)
+<!-- ![Header](https://i.ibb.co.com/dwbSLkrH/github-header-banner.jpg) -->
+![Header](https://i.ibb.co.com/XZxyMYw0/df38f1f7-9abc-4493-90df-fb334ed0f8fc.png)
 
 ## 🚀 Welcome to My World of Code!
 <h3 align="center">Full-Stack Web Developer | React • Next.js • Node.js • TypeScript</h3>
